@@ -1,0 +1,234 @@
+[24-Sep-2015 05:38:09 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:38:09 UTC] PHP Stack trace:
+[24-Sep-2015 05:38:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:38:09 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:38:09 UTC] PHP Stack trace:
+[24-Sep-2015 05:38:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:38:09 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:38:09 UTC] PHP Stack trace:
+[24-Sep-2015 05:38:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:38:09 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:38:09 UTC] PHP Stack trace:
+[24-Sep-2015 05:38:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:01 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:01 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:01 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:01 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:01 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:01 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:01 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:01 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:03 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:03 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:03 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:03 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:03 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:03 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:03 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:03 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:04 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:04 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:04 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:04 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:04 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:04 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:04 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:05 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:05 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:05 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:05 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:05 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:05 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:05 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:38 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:38 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:38 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:39:38 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:38 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:38 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:39:38 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:39:38 UTC] PHP Stack trace:
+[24-Sep-2015 05:39:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:12 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:12 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:12 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:12 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:12 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:12 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:14 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:14 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:14 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:14 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:14 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:14 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:15 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:15 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:15 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:15 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:15 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:15 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:15 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:22 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:22 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:22 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:22 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:22 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:22 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:22 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:39 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:39 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:39 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:39 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:39 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:39 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:39 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:41 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:41 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:41 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:41 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:41 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:41 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:41 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:41 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:54 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:42:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:54 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:42:54 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:42:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:44:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:13 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:44:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:13 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:44:40 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:40 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:44:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:40 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:44:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:44:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/arts-vs-structure.php on line 3
+[24-Sep-2015 05:44:42 UTC] PHP Stack trace:
+[24-Sep-2015 05:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/arts-vs-structure.php:0
+[24-Sep-2015 05:45:54 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:45:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:45:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:45:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:45:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:45:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:45:54 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:45:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:45:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:45:54 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:45:54 UTC] PHP Stack trace:
+[24-Sep-2015 05:45:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:46:20 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:46:20 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:46:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 3
+[24-Sep-2015 05:46:20 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:46:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:46:20 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:46:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/self-defence-techniques.php on line 103
+[24-Sep-2015 05:46:20 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/self-defence-techniques.php:0
+[24-Sep-2015 05:46:27 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/asianamer.php on line 3
+[24-Sep-2015 05:46:27 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/asianamer.php:0
+[24-Sep-2015 05:46:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/asianamer.php on line 3
+[24-Sep-2015 05:46:27 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/asianamer.php:0
+[24-Sep-2015 05:46:27 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/asianamer.php on line 104
+[24-Sep-2015 05:46:27 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/asianamer.php:0
+[24-Sep-2015 05:46:27 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/asianamer.php on line 104
+[24-Sep-2015 05:46:27 UTC] PHP Stack trace:
+[24-Sep-2015 05:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/asianamer.php:0

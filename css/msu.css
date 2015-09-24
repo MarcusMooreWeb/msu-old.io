@@ -1,0 +1,67 @@
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  min-width: 800px !important;
+  color: #890C08;
+  font-family: Arial, helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  padding: 2px; }
+
+a.body {
+  color: #FF0000;
+  text-decoration: underline; }
+  a.body:visited {
+    color: #fff;
+    text-decoration: underline; }
+
+.legal {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9px;
+  color: #FFFFFF; }
+
+.headline {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #890C08;
+  font-weight: bold; }
+
+.links {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #890C08;
+  font-weight: normal; }
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-position: center; }
+
+.art {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  color: #890C08;
+  text-decoration: none; }
+
+.sub {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-weight: bold;
+  color: #890C08;
+  text-decoration: none; }
+
+.top {
+  font-size: 9px; }
+
+.tm {
+  vertical-align: super;
+  font-family: Times New Roman;
+  font-size: xx-small; }
+
+/*# sourceMappingURL=main.css.map */
+
+/*# sourceMappingURL=msu.css.map */
