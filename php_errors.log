@@ -232,3 +232,15 @@
 [24-Sep-2015 05:46:27 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/asianamer.php on line 104
 [24-Sep-2015 05:46:27 UTC] PHP Stack trace:
 [24-Sep-2015 05:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/asianamer.php:0
+[24-Sep-2015 05:54:31 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php on line 3
+[24-Sep-2015 05:54:31 UTC] PHP Stack trace:
+[24-Sep-2015 05:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php:0
+[24-Sep-2015 05:54:31 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php on line 3
+[24-Sep-2015 05:54:31 UTC] PHP Stack trace:
+[24-Sep-2015 05:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php:0
+[24-Sep-2015 05:54:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php on line 48
+[24-Sep-2015 05:54:31 UTC] PHP Stack trace:
+[24-Sep-2015 05:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php:0
+[24-Sep-2015 05:54:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php on line 48
+[24-Sep-2015 05:54:31 UTC] PHP Stack trace:
+[24-Sep-2015 05:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/articles/mad-kenpo-scientist1.php:0
