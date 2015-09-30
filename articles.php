@@ -16,35 +16,35 @@ include 'header.php';
     			<TR> 
       				<TD BGCOLOR="#CCCCCC" class="BODY" VALIGN="TOP">
 					
-					<p><a href="/articles/self-defence-techniques.php" class="body"><strong>Are You Supposed To Finish Self-Defense Techniques?</strong></a><br>
+					<p><a href="self-defense-techniques.php" class="body"><strong>Are You Supposed To Finish Self-Defense Techniques?</strong></a><br>
 	There are many misconceptions that permeate modern self-defense martial arts &quot;systems.&quot;...
-						<a href="/articles/self-defence-techniques.php" class="body">More</a></p>
+						<a href="self-defense-techniques.php" class="body">More</a></p>
 					
 					<p>
-						<a href="/articles/mad-kenpo-scientist1.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part One</strong></a><br>
-It has been arguably stated, &quot;Ed Parker is the father of American Karate.&quot; Although there are some who may take issue with such a claim...<a href="/articles/mad-kenpo-scientist1.php" class="body">More</a></p>
+						<a href="mad-kenpo-scientist1.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part One</strong></a><br>
+It has been arguably stated, &quot;Ed Parker is the father of American Karate.&quot; Although there are some who may take issue with such a claim...<a href="mad-kenpo-scientist1.php" class="body">More</a></p>
 					
 					<p>
-						<a href="/articles/mad-kenpo-scientist2.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part Two</strong></a><br>
-Ed Parker’s creation, &quot;Kenpo-Karate,&quot; has a brother and a sister art. The &quot;sister&quot; is Jeet Kune Do (JKD). We’ll save the &quot;brother&quot; for another day...<a href="/articles/mad-kenpo-scientist2.php" class="body">More</a></p>
+						<a href="mad-kenpo-scientist2.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part Two</strong></a><br>
+Ed Parker’s creation, &quot;Kenpo-Karate,&quot; has a brother and a sister art. The &quot;sister&quot; is Jeet Kune Do (JKD). We’ll save the &quot;brother&quot; for another day...<a href="mad-kenpo-scientist2.php" class="body">More</a></p>
 
 <p>
-						<a href="/articles/mad-kenpo-scientist3.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part Three</strong></a><br>
-Up until the passing of Ed Parker I had not given much thought to the diversity of Ed Parker’s teachings over the years, and its affect on what he, in general called &quot;American Kenpo.&quot;...<a href="/articles/mad-kenpo-scientist3.php" class="body">More</a></p>
+						<a href="mad-kenpo-scientist3.php" class="body"><strong>Excerpts from the Diary of a &quot;Mad&quot; Kenpo Scientist, Part Three</strong></a><br>
+Up until the passing of Ed Parker I had not given much thought to the diversity of Ed Parker’s teachings over the years, and its affect on what he, in general called &quot;American Kenpo.&quot;...<a href="mad-kenpo-scientist3.php" class="body">More</a></p>
 					
 					
           				<p>
-						<a href="/articles/arts-vs-structure.php" class="body"><strong>Martial Arts Versus Martial Science Structure</strong></a><br>
-Over your lifetime beginning when you first began to have control of your body, you have performed various tasks, and in that process created synaptic pathways...<a href="/articles/arts-vs-structure.php" class="body">More</a></p>				
-						<p><a href="/articles/versus.php" class="body"><strong>Motion Kenpo vs. SubLevel Four Kenpo</strong></a><br>
+						<a href="arts-vs-structure.php" class="body"><strong>Martial Arts Versus Martial Science Structure</strong></a><br>
+Over your lifetime beginning when you first began to have control of your body, you have performed various tasks, and in that process created synaptic pathways...<a href="arts-vs-structure.php" class="body">More</a></p>				
+						<p><a href="versus.php" class="body"><strong>Motion Kenpo vs. SubLevel Four Kenpo</strong></a><br>
 						Motion-Kenpo versus Sub-Level Four Kenpo™ A Sub-Level Four™ Self-Defense technique is uniquely different from Motion-Kenpo...
-						<a href="/articles/versus.php" class="body">More</a></p>
-        				<p><a href="/articles/kenpo_chi.php" class="body"><strong>Kenpo Karate and Chi</strong></a><br>
+						<a href="versus.php" class="body">More</a></p>
+        				<p><a href="kenpo_chi.php" class="body"><strong>Kenpo Karate and Chi</strong></a><br>
 						Chi is a term that is used across the full range of the Chinese Culture and is included in all of its diverse sciences...
-						<a href="/articles/kenpo_chi.php" class="body">More</a></p>
-        				<p><a href="/articles/asianamer.php" class="body"><strong>&quot;Asian&quot; Americans</strong></a><br>
+						<a href="kenpo_chi.php" class="body">More</a></p>
+        				<p><a href="asianamer.php" class="body"><strong>&quot;Asian&quot; Americans</strong></a><br>
 						We as Americans seem to have a fascination for the Asian Cultures, and have embraced the cultural accoutrements of the martial arts like no other...
-						<a href="/articles/asianamer.php" class="body">More</a></p>
+						<a href="asianamer.php" class="body">More</a></p>
       				</TD>
       			</TR>
 				<tr>
@@ -66,7 +66,7 @@ Over your lifetime beginning when you first began to have control of your body, 
 
 				<a href="seminars.php" class="links">SL4 Kenpo Seminars</a> / 
 
-				<a href="/articles/" class="links">Kenpo Articles</a> / 
+				<a href="" class="links">Kenpo Articles</a> / 
 
 				<a href="media.php" class="links">Media Archive</a> / 
 

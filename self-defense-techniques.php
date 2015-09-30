@@ -9,7 +9,7 @@ include 'header.php';
 			<TABLE WIDTH="100%" HEIGHT="100%" BORDER="0" CELLPADDING="3" CELLSPACING="5">
 <!--PAGE NAME-->
 				<TR><TD HEIGHT="25" BGCOLOR="#890C08" CLASS="BODY"><a name="top"></a>
-				<a href="/web/20111006004559/http://www.martialscienceuniversity.com/" class="h1"><h1>Are You Supposed To Finish Self-Defense Techniques?</h1></a></TD></TR>
+				<h1>Are You Supposed To Finish Self-Defense Techniques?</h1></a></TD></TR>
 
 <!--JUMP MENU-->
 				<TR><TD BGCOLOR="#CCCCCC" class="BODY" VALIGN="TOP">

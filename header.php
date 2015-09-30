@@ -1,22 +1,21 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html class="no-js" lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title> Martial Science University - <?php echo $pageTitle ?> </title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script type="text/javascript">archive_analytics.values.server_name="wwwb-app1.us.archive.org";archive_analytics.values.server_ms=1005;</script>
 		<link type="text/css" rel="stylesheet" href="css/banner-styles.css"/>
 		<meta name="description" content="At the Martial Science University SubLevel Four Kenpo we have chosen to explore Mr. Ed Parker's creation through to its many advanced concepts. We exist to perpetuate the works Mr. Ed Parker Sr & American Kenpo.">
-		<meta name="keywords" content="kenpo, kempo, American Kenpo, sub level 4, kenpo karate, ed parker, ryan angel, ron chapel martial arts, Martial Science University, MSU">
+		<meta name="keywords" content="kenpo, kempo, American Kenpo, sub level 4, kenpo karate, ed parker, ryan angel, ron chapel, martial arts, Martial Science University, MSU, martial science, education">
 		<meta name="robots" content="index, follow, noodp">
 		<META name="verify-v1" content="CwTpLDgUW8k/UMq0fhXB+gFjqJ8fR9H8zdSn3NXOtGc=" />
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -33,6 +32,7 @@
 														  'images/buttons/contact-over',
 														  'images/buttons/press-over.jpg',
 														  'images/buttons/seminars-over.jpg')">
+
 
 
 <DIV ALIGN="CENTER" VALIGN="MIDDLE">

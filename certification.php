@@ -42,10 +42,8 @@ include 'header.php';
 </ul>
 
 
-
-
-Ryan Angell <br />
-Rodrigo Perez<br />
+Ryan Angell <br /></p>
+<p>Rodrigo Perez<br /></p>
 Armando Viera<br />
 Brad Bode<br />
 Isaac Torres<br />

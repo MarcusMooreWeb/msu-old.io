@@ -9,22 +9,22 @@ include 'header.php';
 			<TABLE WIDTH="100%" HEIGHT="100%" BORDER="0" CELLPADDING="3" CELLSPACING="5">
 <!--PAGE NAME-->
 				<TR><TD HEIGHT="25" BGCOLOR="#890C08" CLASS="BODY"><a name="top"></a>
-				<a href="/web/20111006004222/http://www.martialscienceuniversity.com/" class="h1"><h1>&#8220;Asian&#8221; Americans</h1></a></TD></TR>
+				<h1>&#8220;Asian&#8221; Americans</h1></TD></TR>
 
 <!--JUMP MENU-->
 				<TR><TD BGCOLOR="#CCCCCC" class="BODY" VALIGN="TOP">
-					<a href="/web/20111006004222/http://www.martialscienceuniversity.com/" class="art">
+					
 <div align="center" class="art">&#8220;Asian&#8221; Americans</div></a>
  <p align="center"><strong> By Ron Chap&eacute;l Ph.D.<br>
   11 July 2003</strong></p>
 <p align="center">&nbsp;</p>
-<p align="right"><font size="1"><a href="/web/20111006004222/http://www.martialscienceuniversity.com/articles/">Return 
+<p align="right"><font size="1"><a href="articles.php">Return 
   to Article Archive</a></font></p>
 <p align="justify">
   We as Americans seem to have a fascination for the Asian Cultures, and have 
   embraced the cultural accoutrements of the martial arts like no other. Some 
   have quite paradoxically chosen to Americanize the 
-  <a href="/web/20111006004222/http://www.martialscienceuniversity.com/" class="body"><strong>martial arts</strong></a> by rejecting 
+  <a href="articles.php" class="body"><strong>martial arts</strong></a> by rejecting 
   concepts of lifelong learning in favor of attainment of premature rank. Status 
   over wisdom, and capitalism over skill seems to be the order of the day for 
   most. Excuse me while I think about that for a second.</p>
@@ -79,8 +79,7 @@ include 'header.php';
   people are for real. However I would feel better if a more clear delineation 
   would be made between sport and street, (although there are mental aspects that 
   do indeed cross over). </p>
-<p align="justify">Others have decided 
-<a href="/web/20111006004222/http://www.martialscienceuniversity.com/" class="body"><strong>American Kenpo</strong></a> is a weapons art and spend 
+<p align="justify">Others have decided <strong>American Kenpo</strong></a> is a weapons art and spend 
   a lot of time on weapons that could get them sent away for a good while if carried. 
   But then again, you never know when you&#8217;re going to be attacked by a rogue 
   hyperactive ninja carjacker/purse snatcher. Funny, the guys that have been knife 
@@ -98,7 +97,7 @@ include 'header.php';
   an American academic perspective as <strong>Ed Parker Sr</strong>. wanted. But then if you do 
   that, you will have to really learn something, instead of kicking the bag. I 
   know, I know, we&#8217;re all warriors. Just don&#8217;t take it so serious.</p>
-<p align="right"><span class="top"><a href="/web/20111006004222/http://www.martialscienceuniversity.com/articles/">Return to Article Archive</a></span></p>
+<p align="right"><span class="top"><a href="articles.php">Return to Article Archive</a></span></p>
 				</TD></TR>
 				
 <?php include 'footer.php' ?>
